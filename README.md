@@ -96,9 +96,9 @@
 		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 	</a>
 </p>
-<p style="margin-bottom: 20px;">
+<p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianbatista&show_icons=true&locale=en&layout=compact" alt="elianbatista" />
 </p>
-<p>&nbsp;
+<p>&nbsp;<br/>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianbatista&show_icons=true&locale=en" alt="elianbatista" />
 </p>
