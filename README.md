@@ -3,6 +3,17 @@
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=elianbatista&label=Profile%20views&color=0e75b6&style=flat" alt="elianbatista" />
 </p>
+
+- 🔭 I’m currently working on [Olá Wolff Tecnologia](https://www.olawolff.com/)
+
+- 🌱 I’m currently learning **Flutter, Typescript, Clean Architecture, TDD and React**
+
+- 💬 Ask me about **Frontend Frameworks**
+
+- 📫 How to reach me **elianbatista2000@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/elian-batista-0b2b07139/](https://www.linkedin.com/in/elian-batista-0b2b07139/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<a href="https://twitter.com/elianlbatista" target="blank">
@@ -97,11 +108,14 @@
 	</a>
 </p>
 <h3>
-  Most Used Languages
+  My Most Used Languages
 </h3>
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elianbatista&show_icons=true&locale=en&layout=compact" alt="elianbatista" />
 </p>
+<h3>
+  My GitHub Stats
+</h3>
 <p>&nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianbatista&show_icons=true&locale=en" alt="elianbatista" />
 </p>
