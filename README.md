@@ -4,9 +4,9 @@
 	<img src="https://komarev.com/ghpvc/?username=elianbatista&label=Profile%20views&color=0e75b6&style=flat" alt="elianbatista" />
 </p>
 
-- 🔭 I’m currently working on [Olá Wolff Tecnologia](https://www.olawolff.com/)
+- 🔭 I’m currently working on [Clicksign](https://www.clicksign.com/)
 
-- 🌱 I’m currently learning **Flutter, Typescript, Clean Architecture, TDD and React**
+- 🌱 I’m currently learning **Typescript, Clean Architecture, TDD, React, React Native and Vue**
 
 - 💬 Ask me about **Frontend Frameworks**
 
